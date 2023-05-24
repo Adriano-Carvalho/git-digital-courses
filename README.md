@@ -2,3 +2,4 @@
 ## Repositório 002
 * comando git push
 * comando git pull
+* comando git fetch
